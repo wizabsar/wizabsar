@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @wizabsar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-wizabsar/wizabsar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m MASHIK ABSAR DHEEN A a.k.a CLUELESS NINJA
+- 👀 I’m interested in HOW COMPUTERS WORKS!!!! 
+- 🌱 I’m currently learning DAILY QUESTS and SIDE QUESTS
+- 💞️ I’m looking to collaborate on NASA (MAY BE ONE DAY)
+- 📫 REACH ME :
+- GMAIL : mashikabsardheen@gmail.com
+- LinkeDIN: https://www.linkedin.com/in/mashik-absar-dheen/
+- WHATSAPP : <naaaahhhhh>
+- Instagram : I'm too busy :-(
